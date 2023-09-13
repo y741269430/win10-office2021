@@ -21,4 +21,6 @@
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/image4.png" width="600" />
 
 ## 2.安装office LTSC 专业增强版 2021  
-  到该网站下载：https://otp.landian.vip/zh-cn/
+  1.到该网站下载：https://otp.landian.vip/zh-cn/ 打开软件后，先移除所有office
+  <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x0.png" width="600" />
+  2.
