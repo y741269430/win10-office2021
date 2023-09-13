@@ -1,5 +1,5 @@
 # win10-office2021
-## 安装win10专业版以及office LTSC 专业增强版 2021
+## 1.安装win10专业版  
 
     1.首先点击：系统设置——更新与安全——激活——更改产品密钥  
     2.断开网络链接（拔网线），并在此处输入：VK7JG-NPHTM-C97JM-9MPGT-3V66T  
@@ -19,3 +19,6 @@
     slmgr /ato  
 
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/image4.png" width="600" />
+
+## 2.安装office LTSC 专业增强版 2021  
+  到该网站下载：https://otp.landian.vip/zh-cn/
