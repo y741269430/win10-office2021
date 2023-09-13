@@ -21,6 +21,20 @@
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/image4.png" width="600" />
 
 ## 2.安装office LTSC 专业增强版 2021  
-  1.到该网站下载：https://otp.landian.vip/zh-cn/ 打开软件后，先移除所有office
-  <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x0.png" width="600" />
-  2.
+    1.到该网站下载：https://otp.landian.vip/zh-cn/ 
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x0.png" width="800" />
+    2.解压并打开软件后，先移除所有office
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x1.png" width="800" />
+    3.按顺序点击：部署——更新通道——添加产品——应用程序
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x2.png" width="800" />
+    4.产品列表选这个：LTSC专业增强版2021
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x3.png" width="800" />
+    5.配置好上述参数后，点击：“开始部署”，并等待。
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x4.png" width="800" />
+    6.按顺序点击：激活——安装许可证
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x5.png" width="800" />
+    7.在列表中选择：LTSC专业增强版2021，并确定，随后激活成功
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/x6.png" width="800" />
+
+
+  
