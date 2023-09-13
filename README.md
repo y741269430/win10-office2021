@@ -9,8 +9,7 @@
     3.电脑即将自动重启，等他自己开机就好了。  
     4.开机后，配置好账户之类的，进入win桌面，然后用管理员权限打开“命令提示符”  
 
-<img src="https://github.com/y741269430/win10-office2021/blob/main/png/image2.png" width="300" />
-<img src="https://github.com/y741269430/win10-office2021/blob/main/png/image3.png" width="300" />
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/image2.png" width="300" /> <img src="https://github.com/y741269430/win10-office2021/blob/main/png/image3.png" width="600" />
 
     5.按顺序输入以下命令即可（先连接网络）  
     
@@ -19,4 +18,4 @@
     slmgr /skms kms.03k.org
     slmgr /ato  
 
-<img src="https://github.com/y741269430/win10-office2021/blob/main/png/image5.png" width="300" />
+<img src="https://github.com/y741269430/win10-office2021/blob/main/png/image4.png" width="600" />
