@@ -31,7 +31,7 @@
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x3.png" width="800" />
     5.配置好上述参数后，点击：“开始部署”，并等待。
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x4.png" width="800" />
-    6.按顺序点击：激活——安装许可证
+    6.按顺序点击：激活——许可证管理——安装许可证
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x5.png" width="800" />
     7.在列表中选择：LTSC专业增强版2021，并确定，随后激活成功
 <img src="https://github.com/y741269430/win10-office2021/blob/main/png/x6.png" width="800" />
